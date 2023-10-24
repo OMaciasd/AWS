@@ -35,7 +35,7 @@ Import thats png files.
 
 ![mysql]["./Diagrams/Migracion MySQL - AWS-Multi AZ RDS..jpg"]
 
-![mysql]['./Diagrams/Migracion MySQL - AWS-Aurora..drawio.png']
+![aurora]['./Diagrams/Migracion MySQL - AWS-Aurora..drawio.png']
 
 ## Support Contact
 

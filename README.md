@@ -33,6 +33,10 @@ Import thats png files.
 
 - **24-10-2023**: Design the workflow for migration of DB MySQl to the AWS Cloud with RDS, and Aurora. Reviewed by [Oscar Macias]![chat].
 
+![mysql]["./Diagrams/Migracion MySQL - AWS-Multi AZ RDS..jpg"]
+
+![mysql]['./Diagrams/Migracion MySQL - AWS-Aurora..drawio.png']
+
 ## Support Contact
 
 For questions or issues, please contact on [LinkedIn]![social] or by [e-mail]![mail]. Also, check out our [AWS Wiki]![wiki].

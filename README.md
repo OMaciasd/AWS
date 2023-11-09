@@ -1,4 +1,4 @@
-# AWS Projects
+# Cloud Architect Projects
 
 ## Description
 
@@ -25,17 +25,14 @@ You should install the following tools on your local machine:
 
 - Draw.io
 
-## How to run
+## Projects
 
-Import thats png files.
+- AWS.
+- Azure.
 
 ## Updates
 
-- **24-10-2023**: Design the workflow for migration of DB MySQl to the AWS Cloud with RDS, and Aurora. Reviewed by [Oscar Macias]![chat].
-
-![mysql]["./Diagrams/Migracion MySQL - AWS-Multi AZ RDS..jpg"]
-
-![aurora]['./Diagrams/Migracion MySQL - AWS-Aurora..drawio.png']
+- **09-11-2023**: Add Cloud architect projects. Reviewed by [Oscar Macias]![chat].
 
 ## Support Contact
 
